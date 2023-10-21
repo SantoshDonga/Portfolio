@@ -5,14 +5,14 @@ function App() {
   return (
     <div className="portfolio">
       <header className="header">
-        <h1>Uday Sai Manoj</h1>
+        <h1>Santosh Babu Donga</h1>
       </header>
 
       <div className="content">
         <section className="section">
           <h2>Introduction</h2>
           <p>
-            I'm Uday Sai Manoj, a B.Tech student with a passion for Artificial Intelligence and Machine Learning,from VIT-AP
+            I'm Santosh, a B.Tech student with a passion for Artificial Intelligence and Machine Learning,from VIT-AP
           </p>
         </section>
 
@@ -45,7 +45,7 @@ function App() {
 
         <section className="section">
           <h2>Contact</h2>
-          <a href="mailto:udaysaimanoj14196@gmail.com">Email me</a>
+          <a href="mailto:santoshdonga09@gmail.com">Email me</a>
         </section>
       </div>
     </div>
