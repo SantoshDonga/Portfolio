@@ -30,8 +30,8 @@ function App() {
         <section className="section">
           <h2>Projects</h2>
           <ul>
-            <li>Disease Diagnosis Through Multi-Modal Data Integration and Data Weighting Using Deep Learning</li>
-            <li>CrimeBot: Crime Registration and Awareness Web Application</li>
+            <li>Web Application for Online Music Streaming</li>
+            <li>Music Recommendation System using Machine Learning</li>
           </ul>
         </section>
         <section className="section">
